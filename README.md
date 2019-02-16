@@ -13,3 +13,17 @@ Useful resources:
 - [ODS topic 1](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
 - [ODS topic 2.1](https://www.kaggle.com/kashnitsky/topic-2-visual-data-analysis-in-python)
 - [ODS topic 2.2](https://www.kaggle.com/kashnitsky/topic-2-part-2-seaborn-and-plotly)
+
+### Assignment 2.
+
+With selected data set:
+
+* Calculate entropy for full data set and for 2 selected groups. What is the information gain for such split?
+* Calculate Gini index for the same groups and compare results.
+* Train a decision tree (DecisionTreeClassifier, random_state = 17). 
+* Find the optimal maximum depth using 5-fold cross-validation (GridSearchCV).
+* Display final tree as an image
+
+Useful resources:
+- [ODS topic 3.1](https://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees.ipynb?flush_cache=true)
+- [Grid search](https://scikit-learn.org/stable/auto_examples/model_selection/plot_multi_metric_evaluation.html)
