@@ -18,11 +18,11 @@ Useful resources:
 
 With selected data set:
 
-* Calculate entropy for full data set and for 2 selected groups. What is the information gain for such split?
-* Calculate Gini index for the same groups and compare results.
-* Train a decision tree (DecisionTreeClassifier, random_state = 17). 
-* Find the optimal maximum depth using 5-fold cross-validation (GridSearchCV).
-* Display final tree as an image
+* Calculate entropy for full data set and for 2 selected groups. What is the information gain for such split? (+2 score)
+* Calculate Gini index for the same groups and compare results (+2 score)
+* Train a decision tree (DecisionTreeClassifier, random_state = 17) (+2 score) 
+* Find the optimal maximum depth using 5-fold cross-validation (GridSearchCV) (+2 score) 
+* Display final tree as an image (+2 score)
 
 Useful resources:
 - [ODS topic 3.1](https://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees.ipynb?flush_cache=true)
