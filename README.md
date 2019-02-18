@@ -27,3 +27,52 @@ With selected data set:
 Useful resources:
 - [ODS topic 3.1](https://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees.ipynb?flush_cache=true)
 - [Grid search](https://scikit-learn.org/stable/auto_examples/model_selection/plot_multi_metric_evaluation.html)
+
+### Assignment 3.
+
+With selected data set (if applicable, or change from school repo):
+
+* Create and train BaggingClassifier (+2 score)
+* Create and train RandomForestClassifier (+2 score)
+* Create and train Linear classifier (+2 score)
+* Create and train k Nearest Neighbors classifier (+2 score)
+* Compare models accuracy
+* Create an ensemble of models and estimate classification accuracy
+* Display different accuracy metrics for model (+ 1 score per metric. Min score 2, Max score 4)
+
+### Assignment 4.
+
+With selected data set (if applicable, or change from school repo):
+
+* Create and train BaggingRegressor (+2 score)
+* Create and train RandomForestRegressor (+2 score)
+* Create and train Logistic Regression model (+2 score)
+* Create and train k Nearest Neighbors Regression (+2 score)
+* Compare models accuracy
+* Create an ensemble of models and estimate classification accuracy
+* Display different accuracy metrics for model (+ 1 score per metric. Min score 2, Max score 4)
+
+Useful resources:
+- [ODS topic 5.1](https://www.kaggle.com/kashnitsky/topic-5-ensembles-part-1-bagging)
+- [ODS topic 5.2](https://www.kaggle.com/kashnitsky/topic-5-ensembles-part-2-random-forest)
+- [ODS topic 3.2](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-3-classification-decision-trees-and-k-nearest-neighbors-8613c6b6d2cd)
+- [ODS topic 4.1](https://www.kaggle.com/kashnitsky/topic-4-linear-models-part-1-ols)
+- [ODS topic 4.2](https://www.kaggle.com/kashnitsky/topic-4-linear-models-part-2-classification)
+- [ODS topic 4.5](https://www.kaggle.com/kashnitsky/topic-4-linear-models-part-5-validation)
+- [ODS topic 4.1](https://www.kaggle.com/kashnitsky/topic-4-linear-models-part-1-ols)
+
+
+## Final Assignments
+
+1. Marketing data (one of the data topic per group): 
+ - Upwork analysis 
+ - Facebook CTF analysis
+2. Face recognition task
+ - Emotion recognition
+ - Age recognition and gender recognition
+ - Pose estimation and motion extraction
+3. Sequence models
+ - voice timbre detection
+ - voice script recognition
+ - ??
+4. Kaggle competition. Join one of the open competitions and create a kernel.
