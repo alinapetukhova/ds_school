@@ -5,7 +5,7 @@ test assignments for the data science school - Roonyx
 
 * Choose data set from [Kaggle repo](https://www.kaggle.com/datasets). Data set shouldn't be analysed before in the available tutorials.
 * Explore main data set features and target labels. (+ 0.5 score per unique method. Min score 2, Max score 4)
-* Feature enginesing for the new parameners (+ 1 score per unique feature. Min score 2, Max score 4)
+* Feature engineering for the new parameters (+ 1 score per unique feature. Min score 2, Max score 4)
 * Choose and display statistics for the observations. In this step you need to create Statistical hypothesis and test them. Hypothesis should be meaningful and display some patterns in the data set (+ 3 score per hypothesis. Min score 6, Max score 12)
 * Visualise explored features and hypothesis (+ 1 score per plot. Min score 6, Max score 10)
 
