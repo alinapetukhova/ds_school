@@ -61,6 +61,15 @@ Useful resources:
 - [ODS topic 4.5](https://www.kaggle.com/kashnitsky/topic-4-linear-models-part-5-validation)
 - [ODS topic 4.1](https://www.kaggle.com/kashnitsky/topic-4-linear-models-part-1-ols)
 
+### Assignment 5.
+
+With selected data set (if applicable, or change from school repo):
+
+* Create and train AdaBoostClassifier (+2 score)
+* Create and train XGBoostClassifier (+2 score)
+* Create and train LightGBM Classifier (+2 score)
+* Create and train CatBoostClassifier (+2 score)
+* Compare accuracy for models (+2 score)
 
 ## Final Assignments
 
